@@ -14,3 +14,6 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
 ```
+Reference :
+
+https://www.geeksforgeeks.org/flask-http-methods-handle-get-post-requests/
